@@ -1,0 +1,7 @@
+*{
+  font-family:sans-serif
+}
+.app-container{
+    width:100vw;
+    overflow-x:hidden;
+}

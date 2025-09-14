@@ -1,0 +1,14 @@
+.google-images-container{
+    display:flex;
+}
+.desktop-home-page{
+    height:400px;
+    width:700px;
+    margin-left:15px;
+    margin-right:15px;
+}
+
+.mobile-home-page{
+    height:400px;
+    width:700px;
+}
