@@ -3,6 +3,7 @@ import './App.css'
 import HeroSection from './components/HeroSection/HeroSection'
 import MidSection from './components/MidSection/MidSection'
 import UpdatesSection from './components/UpdatesSection/Updates'
+import ExperienceSection from './components/ExperienceSection/ExperienceSection'
 
 import ScrollTrigger from 'gsap/ScrollTrigger'
 import { SplitText } from 'gsap/SplitText'
@@ -17,6 +18,8 @@ function App() {
       <HeroSection />
       <MidSection />
       <UpdatesSection />
+      <ExperienceSection />
+      <div style={{ height: "100vh" }}></div>
     </div>
   )
 }
